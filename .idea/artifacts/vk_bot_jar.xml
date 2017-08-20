@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vk_bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/vk_bot_jar</output-path>
+    <root id="archive" name="vk_bot.jar">
+      <element id="module-output" name="vk_bot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/okhttp-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/okio-1.13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

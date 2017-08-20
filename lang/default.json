@@ -1,0 +1,40 @@
+{
+  "localizeMessages": [
+    {
+      "fieldName": "auth_check",
+      "message": "Authentication checking..."
+    },
+    {
+      "fieldName": "auth_complete",
+      "message": "Authentication completed!"
+    },
+    {
+      "fieldName": "auth_fail_pswd",
+      "message": "Authentication failed:\nIncorrect login or password."
+    },
+    {
+      "fieldName": "auth_fail_file",
+      "message": "Authentication failed:\nFile doesn't exists."
+    },
+    {
+      "fieldName": "admin_check",
+      "message": "Admins checking..."
+    },
+    {
+      "fieldName": "admin_complete",
+      "message": "Admins checking completed, was found %d admins."
+    },
+    {
+      "fieldName": "admin_fail_file",
+      "message": "Admin file 'data/admins.sv' doesn't created."
+    },
+    {
+      "fieldName": "client",
+      "message": "Client: "
+    },
+    {
+      "fieldName": "bot",
+      "message": "Bot: "
+    }
+  ]
+}

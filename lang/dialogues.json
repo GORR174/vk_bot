@@ -1,0 +1,44 @@
+{
+  "localizeMessages": [
+    {
+      "fieldName": "roll_exception",
+      "message": "Ошибка. Чтобы выбрать случайное число напишите \u0027!roll x\u0027 или \u0027!roll x-y\u0027 (Максимальное число \u00272147483647\u0027)"
+    },
+    {
+      "fieldName": "dont_known",
+      "message": "Dunno"
+    },
+    {
+      "fieldName": "admin_say",
+      "message": "Отправлено!"
+    },
+    {
+      "fieldName": "already_admin",
+      "message": "Уже админ"
+    },
+    {
+      "fieldName": "add_admin",
+      "message": "+Админ"
+    },
+    {
+      "fieldName": "remove_admin",
+      "message": "Админ: %s удалён"
+    },
+    {
+      "fieldName": "remove_dont_admin",
+      "message": "Данный пользователь не является админом"
+    },
+    {
+      "fieldName": "turn_on",
+      "message": "вкл"
+    },
+    {
+      "fieldName": "turn_off",
+      "message": "выкл"
+    },
+    {
+      "fieldName": "bot_off",
+      "message": "Пока-пока"
+    }
+  ]
+}
